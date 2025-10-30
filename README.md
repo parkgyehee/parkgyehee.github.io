@@ -1,4 +1,4 @@
-12시 수정함!
+13시30분 수정함!
  
 # parkgyehee.github.io
 it 테스터 교육
