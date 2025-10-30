@@ -46,24 +46,3 @@ it 테스터 교육
 | **Payment** | Toss Payments / Stripe API |
 | **Analytics** | Google Analytics / Chart.js |
 
----
-
-## 🚀 설치 및 실행 방법
-
-```bash
-# 1. 리포지토리 클론
-git clone https://github.com/사용자명/mealkit-project.git
-cd mealkit-project
-
-# 2. 패키지 설치
-npm install
-
-# 3. 환경 변수 설정 (.env 파일 생성)
-# 예시:
-# DB_URI=mongodb+srv://...
-# PAYMENT_KEY=...
-# AWS_S3_BUCKET=...
-
-# 4. 개발 서버 실행 
-npm run dev
-####
