@@ -64,5 +64,6 @@ npm install
 # PAYMENT_KEY=...
 # AWS_S3_BUCKET=...
 
-# 4. 개발 서버 실행
+# 4. 개발 서버 실행 
 npm run dev
+####
